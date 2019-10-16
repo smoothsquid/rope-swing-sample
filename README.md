@@ -4,4 +4,5 @@
 영상
 -----
 https://youtu.be/YzHz1j4iIpo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YzHz1j4iIpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![로프 스윙 예제 영상](http://img.youtube.com/vi/YzHz1j4iIpo/0.jpg)](https://youtu.be/YzHz1j4iIpo?t=0s) 로프 스윙 예제 영상
